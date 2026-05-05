@@ -1,5 +1,5 @@
-Nama : Fatih Hamzah Zulkarnain
+# Nama : Fatih Hamzah Zulkarnain
 
-NIM : 25071306040
+# NIM : 25071306040
 
-Prodi : S1 Teknik Informatika
+# Prodi : S1 Teknik Informatika
